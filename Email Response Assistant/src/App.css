@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+textarea {
+  font-size: 1rem;
+  padding: 1rem;
+}
+
+.response-box {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #f3f3f3;
+  border: 1px solid #ccc;
+}
